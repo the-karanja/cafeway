@@ -1,4 +1,17 @@
-- 👋 Hi,I am @Brian and I am a 24-year-old 🇰🇪 Kenyan software developer. I am passionate about creating innovative solutions and solving complex problems through code. I have a strong background in web backend-development,databases and cross-platform mobile application development, and I am always looking for new challenges and opportunities to learn and grow as a developer. On my page, you will find a variety of projects that showcase my skills and interests, so feel free to take a look around and get to know me better. Thank you for stopping by!
+- 👋 Hi,I am @Brian I am a dedicated Backend Developer and AWS Solutions Architect with a
+proven track record of designing and implementing robust, scalable, and
+secure backend infrastructures. Proficient in creating efficient server-side
+solutions and optimizing database performance to enhance overall
+application functionality. Leveraging a comprehensive skill set in AWS
+services, I bring a strategic approach to architecting cloud solutions that
+align with business objectives. Adept at collaborating with cross-functional
+teams, my expertise lies in seamlessly integrating backend systems with
+cloud technologies, ensuring seamless operations and high-performance
+results. My commitment to staying abreast of industry trends and
+continuously expanding my technical toolkit underscores my passion for
+delivering cutting-edge solutions in both backend development and AWS
+architecture.
+
 - 👀I am a versatile developer with a passion for building high-quality, scalable solutions. I have a strong foundation in a variety of programming languages, including PHP (Laravel, Symphony), Python (Django), JavaScript, Flutter, and Kotlin. In addition to my skills in backend development, I am also experienced in mobile development and API development.
 
 I am particularly interested in payment gateway integration, and have a proven track record of successfully implementing payment solutions for various projects.
